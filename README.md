@@ -1,2 +1,2 @@
 # ballin-computing-machine
-Repositorio 
+Repositorio inicial para realizar pruebas
